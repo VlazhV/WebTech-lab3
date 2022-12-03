@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>Danila</firstName>
+        <lastName>Shchyhlinsky</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Maria</firstName>
+        <lastName>Stanishevskaya</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>Alex</firstName>
+        <lastName>Ivanov</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>Anonim</firstName>
+        <lastName>Anonimus</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>Gregory</firstName>
+        <lastName>Levychenkov</lastName>
+    </case>
+    <case>
+        <id>6</id>
+        <firstName>Peter</firstName>
+        <lastName>Savchenko</lastName>
+    </case>
+</cases>
